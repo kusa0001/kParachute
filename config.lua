@@ -2,7 +2,7 @@ Config = {}
 
 Config.Price = 500 -- Vous pouvez configurer le prix d'un parachute
 
-Config.ArmesItem = false -- Mettre true si vous avez les armes en Items
+Config.ArmesItem = true -- Mettre true si vous avez les armes en Items
 Config.Item = 'parachute' -- Si vous avez les armes en Items, vous pouvez définir le nom de votre item ici
 
 Config.Position = { -- Vous pouvez ajouter ou supprimer des positions

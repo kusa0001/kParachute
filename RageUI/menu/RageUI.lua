@@ -1,10 +1,3 @@
-print('-------------------------------------------')
-print("[^4Auteur^0] : kusa | Created for ^4zDev")
-print("[^4GitHub^0] : github.com/^4kusa0001")
-print("[^4- zDev^0] : dsc.gg/^4zdev")
-print('-------------------------------------------')
-
-
 function math.round(num, numDecimalPlaces)
     return tonumber(string.format("%." .. (numDecimalPlaces or 0) .. "f", num))
 end
