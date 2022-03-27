@@ -92,7 +92,7 @@ OpenMenu = function()
                             if Config.ArmesItem then
                                 TriggerServerEvent('kParachute:GiveItemParachute', Config.Item)
                             else
-                                TriggerServerEvent('kParachute:GiveWeaponsParachute', 'weapon_gadget_parachute')
+                                TriggerServerEvent('kParachute:GiveWeaponsParachute', 'gadget_parachute')
                             end
                         end
                     }, Menu.Main)
