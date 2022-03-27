@@ -8,4 +8,4 @@ Possibilité de définir si vous avez les armes en items ou non ! ( Voir config.
 Plusieurs positions disponibles, vous pouvez en supprimer ou en rajouter ! ( Voir config.lua -> Config.Position ! )
 
 
-SUPPORT -> -> -> https://dsc.gg/zdev
+SUPPORT -> -> -> kusa#4078
